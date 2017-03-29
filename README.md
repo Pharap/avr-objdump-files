@@ -6,7 +6,7 @@ A simple batch script to make decompiling with avr-objdump.exe a drag &amp; drop
 1. Move file to same location as avr-objdump.exe
 2. Locate `*.ino.elf` files for dissasembly
 3. Drag `*.ino.elf` files onto `avr-objdump-files.bat`
-4. Enjoy assembly-filled `\*.ino.txt` files
+4. Enjoy assembly-filled `*.ino.txt` files
 5. There is no number 5
 
 ## Licence
